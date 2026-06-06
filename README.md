@@ -80,7 +80,8 @@ plot2d3('gnn',r);
 ```
 OUTPUT:
 
-<img width="1918" height="1197" alt="image" src="https://github.com/user-attachments/assets/7cc85f08-252a-47b0-8cfd-6c20870a2747" />
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/1125200b-d5eb-4318-a189-e4ce06fff344" />
+
 
 Cross Correlation
 
