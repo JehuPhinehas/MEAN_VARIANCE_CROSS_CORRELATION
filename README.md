@@ -54,7 +54,6 @@ endfunction
 EY=intg(a,b,c);
 disp(EX,"i)Mean of X=")
 disp(EY,"Mean of Y=")
-
 function X=g(x)
     z=3*(2-x)^2
     X=x^2*z
@@ -71,13 +70,13 @@ vX2=EX2-(EX)^2;
 vY2=EY2-(EY)^2;
 disp(vX2,"ii) Variance of X");
 disp(vY2,"Variance of Y");
-
-x=[1 3 4 5 9 2 3 8];
-y=[2 5 8 4 7 1 3 7];
+x=[1 3 4 6 7 2 9 8];
+y=[2 5 8 4 6 1 7 3];
 n1=max(size(y))-1;
 n2=max(size(x))-1;
 r=corr(x,y,n1);
 plot2d3('gnn',r);
+
 ```
 OUTPUT:
 
