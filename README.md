@@ -94,9 +94,10 @@ Type in the second sequence = [2 5 8 4 6 1 7 3]
 calculation:
 
 <img width="1015" height="1280" alt="image" src="https://github.com/user-attachments/assets/8a261934-3b11-44b7-9a16-4564dd493cc2" />
+<img width="841" height="1280" alt="image" src="https://github.com/user-attachments/assets/a1b31c44-5d5a-4cd7-bcb4-da368a1e5f7b" />
+<img width="816" height="1280" alt="image" src="https://github.com/user-attachments/assets/7fb38664-d9d9-43ec-8dae-0ed082ca967c" />
+<img width="1600" height="759" alt="image" src="https://github.com/user-attachments/assets/96f2bffb-2df5-41a9-8745-0b47e0f82b14" />
 
-<img width="916" height="1424" alt="image" src="https://github.com/user-attachments/assets/2f4c11c0-0fc3-4cd6-ab5d-2ecc1544fba3" />
-<img width="1600" height="1082" alt="image" src="https://github.com/user-attachments/assets/b3226adf-51ab-4051-8fd9-628ebee35ec6" />
 
 
 
