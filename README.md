@@ -85,15 +85,16 @@ OUTPUT:
 
 Cross Correlation
 
-Type in the reference sequence = [1 3 4 5 9 2 3 8]
+Type in the reference sequence = [1 3 4 6 7 2 9 8]
 
-Type in the second sequence = [2 5 8 4 7 1 3 7]
+Type in the second sequence = [2 5 8 4 6 1 7 3]
 
 
 
 calculation:
 
-<img width="884" height="1398" alt="image" src="https://github.com/user-attachments/assets/12d4fc81-bfb6-40a4-a0aa-6c80e8ef7df9" />
+<img width="1015" height="1280" alt="image" src="https://github.com/user-attachments/assets/8a261934-3b11-44b7-9a16-4564dd493cc2" />
+
 <img width="916" height="1424" alt="image" src="https://github.com/user-attachments/assets/2f4c11c0-0fc3-4cd6-ab5d-2ecc1544fba3" />
 <img width="1600" height="1082" alt="image" src="https://github.com/user-attachments/assets/b3226adf-51ab-4051-8fd9-628ebee35ec6" />
 
